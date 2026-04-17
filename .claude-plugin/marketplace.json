@@ -1,0 +1,14 @@
+{
+  "name": "numinous",
+  "owner": {
+    "name": "Numinous Labs",
+    "url": "https://numinouslabs.io"
+  },
+  "plugins": [
+    {
+      "name": "numinous",
+      "source": "./",
+      "description": "Numinous forecasting tools — predictions, signals, balance, usage."
+    }
+  ]
+}

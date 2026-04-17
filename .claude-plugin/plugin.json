@@ -1,0 +1,12 @@
+{
+  "name": "numinous",
+  "description": "Numinous forecasting tools — AI predictions on binary events, real-time signals from news and prediction markets, balance and usage tracking.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Numinous Labs",
+    "url": "https://numinouslabs.io"
+  },
+  "homepage": "https://numinouslabs.io",
+  "repository": "https://github.com/infinite-mech/numinous-tools",
+  "license": "MIT-0"
+}
