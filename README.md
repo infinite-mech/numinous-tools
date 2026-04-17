@@ -1,6 +1,6 @@
-# Numinous Skill for Claude Code
+# Numinous Tools
 
-A Claude Code skill (also installable on any agent that reads `SKILL.md`) that wraps the [Numinous](https://numinouslabs.io) forecasting APIs.
+A skill pack wrapping the [Numinous](https://numinouslabs.io) forecasting APIs. Works in Claude Code (as a plugin), clawhub, Cursor, Cline, or any agent that reads a `SKILL.md`.
 
 Gives your AI agent one command to:
 - Generate calibrated AI probability forecasts on any binary event (pay per call, or with a pre-funded credit balance)
