@@ -28,7 +28,7 @@ ln -s ~/.claude/skills/numinous-src/skills/numinous ~/.claude/skills/numinous
 ### Via clawhub
 
 ```
-npx clawhub@latest install juandbalbi/numinous-tools
+npx clawhub@latest install numinous-tools
 ```
 
 (Listed at https://clawhub.ai/juandbalbi/numinous-tools — published by Numinous Labs.)
