@@ -3,6 +3,9 @@
 .env.local
 .env.production
 
+# Project-local Claude Code config and dev-only skills
+.claude/
+
 # Python
 __pycache__/
 *.py[cod]
