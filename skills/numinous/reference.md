@@ -205,12 +205,18 @@ Each `signal.source` is one of:
 
 ### `impact_bucket` (scenario escalation ladder)
 
+The ladder is generated per-question (scenario-specific), but buckets follow a consistent escalation shape:
+
 | Bucket | Meaning |
 |---|---|
-| `S0` | Routine / diplomatic noise — no real program movement |
+| `S0` | Routine noise — no real program movement |
 | `S1` | Peripheral / low-impact update |
 | `S2` | Moderate escalation / meaningful program update |
 | `S3` | Strong escalation / direct evidence of the scenario |
+| `S4` | Near-resolution — structural change that makes the YES outcome highly probable |
+| `S5` | Event has resolved (or functionally resolved) in favor of YES |
+
+Most real-world responses cluster in S0–S3; S4/S5 appear when the scenario is imminent or realized.
 
 ### Error responses
 
